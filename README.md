@@ -10,7 +10,7 @@ _**Osman, M., Zaitchik, B., Badr, H., Hameed, S., 2020: “North Atlantic Center
 
 Refer to Hameed and Piontkovski, 2004 for CoA calculations:
 
-_**Hameed, S., and S. Piontkovski, 2004: "The dominant influence of the Icelandic Low on the position of the Gulf Stream northwall". Geophys. Res. Lett., 31, 1998–2001, https://doi.org/10.1029/2004GL019561_**
+_**Hameed, S., and S. Piontkovski, 2004: "The dominant influence of the Icelandic Low on the position of the Gulf Stream northwall". Geophys. Res. Lett., 31, 1998–2001, https://doi.org/10.1029/2004GL019561**_
 
 <div>
     <a href="https://plotly.com/~mosman7/13/?share_key=scPOdtUOTnERmeSK85YE0q" target="_blank" title="NAO-CoA-MON" style="display: block; text-align: center;"><img src="https://plotly.com/~mosman7/13.png?share_key=scPOdtUOTnERmeSK85YE0q" alt="NAO-CoA-MON" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>

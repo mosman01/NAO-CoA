@@ -12,7 +12,7 @@ Please note that the use of data is subject to authers' copyrights. To use pleas
 
 _**Osman, M., Zaitchik, B., Badr, H., Hameed, S., 2020: “North Atlantic Centers of Action and Seasonal to Subseasonal Temperature Variability in Europe and the Eastern United States”. Int. J. Climatol, (Under Submission)**_  
 
-Refer to Hameed and Piontkovski, 2004 for CoA calculations:
+Refer to Hameed and Piontkovski (2004) for the CoA calculations:
 
 _**Hameed, S., and S. Piontkovski, 2004: "The dominant influence of the Icelandic Low on the position of the Gulf Stream northwall". Geophys. Res. Lett., 31, 1998–2001, https://doi.org/10.1029/2004GL019561**_
 

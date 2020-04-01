@@ -4,7 +4,7 @@
 - to view timeseries interactively, download the .html files and view offline. (They cannot be viewed in Github due to size restrictions)
 - Please note that the use of data is subject to authers' copyrights. To use please cite as:
 
-Osman, M., Zaitchik, B., Badr, H., Hameed, S., 2020: “North Atlantic Centers of Action and Seasonal to Subseasonal Temperature Variability in Europe and the Eastern United States”, (Under Submission)
+_Osman, M., Zaitchik, B., Badr, H., Hameed, S., 2020: “North Atlantic Centers of Action and Seasonal to Subseasonal Temperature Variability in Europe and the Eastern United States”, Int. J. Climatol, (Under Submission)_
 
 
 <div>

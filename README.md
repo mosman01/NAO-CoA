@@ -2,9 +2,11 @@
 
 - Download .csv files for the needed CoA or NAO from 1980 to 2016.
 - to view timeseries interactively, download the .html files and view offline. (They cannot be viewed in Github due to size restrictions)
-- Please note that the use of data is subject to authers' copyrights. To use please cite as:
 
-_Osman, M., Zaitchik, B., Badr, H., Hameed, S., 2020: “North Atlantic Centers of Action and Seasonal to Subseasonal Temperature Variability in Europe and the Eastern United States”, Int. J. Climatol, (Under Submission)_
+
+Please note that the use of data is subject to authers' copyrights. To use please cite as:
+
+_*Osman, M., Zaitchik, B., Badr, H., Hameed, S., 2020: “North Atlantic Centers of Action and Seasonal to Subseasonal Temperature Variability in Europe and the Eastern United States”, Int. J. Climatol, (Under Submission)*_
 
 
 <div>

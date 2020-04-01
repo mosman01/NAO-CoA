@@ -3,7 +3,9 @@
 - Download .csv files for the needed CoA or NAO from 1980 to 2016:  
 [NOA Indices](/NAO/)  
 [CoA Indices](/CoA/)  
-- to view timeseries interactively, download the .html files and view offline. (They cannot be viewed in Github due to size restrictions)
+- to view timeseries interactively, download the .html files and view offline. (They cannot be viewed in Github due to size restrictions)  
+[NAO-Monthly](/NAO-CoA-MON.html)
+[NAO-10Days](/NAO-CoA-10days.html)  
 - R script will be available soon to create CoA from NCEP SLP for any given domain
 
 Please note that the use of data is subject to authers' copyrights. To use please cite as:

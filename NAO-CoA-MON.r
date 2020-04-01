@@ -1,6 +1,6 @@
 # Get this figure: fig <- get_figure("mosman7", 13)
 # Get this figure's data: data <- get_figure("mosman7", 13)$data
-# Add data to this figure: p <- add_trace(p, x=c(4, 5), y=c(4, 5), kwargs=list(filename="NAO - CoA - MON", fileopt="extend"))
+# Add data to this figure: p <- add_trace(p, x=c(4, 5), y=c(4, 5), kwargs=list(filename="NAO-CoA-MON", fileopt="extend"))
 # Get y data of first trace: y1 <- get_figure("mosman7", 13)$data[[1]]$y
 
 # Get figure documentation: https://plotly.com/r/get-requests/

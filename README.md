@@ -7,12 +7,11 @@
 [NAO-Monthly](/NAO-CoA-MON.html)  
 [NAO-10Days](/NAO-CoA-10days.html)  
 
-NetCDF files:
-[Wind Composites](https://drive.google.com/drive/folders/1cxhKLP5IL4Sln7nDirXfOjHhOar44kfD?usp=sharing)
-[Correaltion Maps](https://drive.google.com/drive/folders/172QX0yogb6CQLYA74jSjxGr-0CPTckOZ?usp=sharing)
+- NetCDF files:  
+[Wind Composites](https://drive.google.com/drive/folders/1cxhKLP5IL4Sln7nDirXfOjHhOar44kfD?usp=sharing)  
+[Correaltion Maps](https://drive.google.com/drive/folders/172QX0yogb6CQLYA74jSjxGr-0CPTckOZ?usp=sharing)  
 
 - R script will be available soon to create CoA from NCEP SLP for any given domain
-
 
 
 Please note that the use of data is subject to authers' copyrights. To use please cite as:

@@ -16,7 +16,7 @@
 
 Please note that the use of data is subject to authers' copyrights. To use please cite as:
 
-_**Osman, M., Zaitchik, B., Badr, H., Hameed, S., 2020: “North Atlantic Centers of Action and Seasonal to Subseasonal Temperature Variability in Europe and the Eastern United States”. Int. J. Climatol, (Under Submission)**_  
+_**Osman, M., Zaitchik, B., Badr, H., Hameed, S., 2020: “North Atlantic Centers of Action and Seasonal to Subseasonal Temperature Variability in Europe and the Eastern North America”. Int. J. Climatol, (Under Submission)**_  
 
 Refer to Hameed and Piontkovski (2004) for the CoA calculations:
 
